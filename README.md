@@ -17,6 +17,14 @@ IMPORTANT:
 
 <br>
 
+GIF:
+- The speed of the gif is much higher than in the game.
+<div>
+  <img src="https://github.com/Abnersampf/Snake-Game-V1/assets/58574013/f3af2ec8-cec7-4eec-ba7b-c08f146fa3f5" width="900px"/>
+</div>
+
+<br>
+
 START SCREEN:
 - The snake starts off stationary, and a 3-second countdown begins. After that it will move randomly in one direction.
 <div>
